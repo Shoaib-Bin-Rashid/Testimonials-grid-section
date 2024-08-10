@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Testimonials grid section]()
-- Live Site URL: [Testimonials grid section Live]()
+- Solution URL: [Testimonials grid section](https://github.com/Shoaib-Bin-Rashid/Testimonials-grid-section)
+- Live Site URL: [Testimonials grid section Live](https://shoaib-bin-rashid.github.io/Testimonials-grid-section/)
 
 ## My process
 
