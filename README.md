@@ -54,7 +54,9 @@ I want to focus more on creating more complex designs and also designing things 
 
 ## Author
 
-- Website - Well I haven't made my profile portfolio, gonna make it sooon when I know a lot of stuffs
-- Frontend Mentor - [@Shoaib-Bin-Rashid](https://www.frontendmentor.io/profile/Shoaib-Bin-Rashid)
 - Linkedin - [Shoaib Bin Rashid](https://www.linkedin.com/in/shoaib-bin-rashid)
+- WhatsApp - [+880 1816811419](https://wa.link/urh8bu)
+- Telegram - [+880 1816811419](t.me/sho_ai_b_11)
+- GitHub - [Shoaib-Bin-Rashid](https://github.com/Shoaib-Bin-Rashid)
+- Frontend Mentor - [Shoaib-Bin-Rashid](https://www.frontendmentor.io/profile/Shoaib-Bin-Rashid)
 - Twitter - [@ShoaibBinRashi1](https://x.com/ShoaibBinRashi1)
