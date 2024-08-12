@@ -42,6 +42,7 @@ Step by step process for building the project by completing html elements for th
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
